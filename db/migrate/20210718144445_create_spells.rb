@@ -7,3 +7,8 @@ class CreateSpells < ActiveRecord::Migration[6.1]
     end
   end
 end
+
+class Spell < ActiveRecord::Base
+
+end
+
